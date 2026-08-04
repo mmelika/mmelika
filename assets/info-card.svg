@@ -26,6 +26,6 @@ text {
 <g class="l" style="animation-delay:0.33s"><text class="key" x="22" y="107">Building</text><text class="val" x="118" y="107">MemBridge — shared memory for AI coding agents</text></g>
 <g class="l" style="animation-delay:0.44s"><text class="key" x="22" y="131">Stack</text><text class="val" x="118" y="131">Node · Electron · React · Supabase</text></g>
 <g class="l" style="animation-delay:0.55s"><text class="key" x="22" y="155">Location</text><text class="val" x="118" y="155">Los Angeles</text></g>
-<g class="l" style="animation-delay:0.66s"><text class="key" x="22" y="179">Repos</text><text class="val" x="118" y="179">9 public</text></g>
+<g class="l" style="animation-delay:0.66s"><text class="key" x="22" y="179">Repos</text><text class="val" x="118" y="179">10 public</text></g>
 <g class="l" style="animation-delay:0.77s"><rect x="22" y="203" width="20" height="10" rx="2" fill="#161b22"/><rect x="48" y="203" width="20" height="10" rx="2" fill="#0e4429"/><rect x="74" y="203" width="20" height="10" rx="2" fill="#006d32"/><rect x="100" y="203" width="20" height="10" rx="2" fill="#26a641"/><rect x="126" y="203" width="20" height="10" rx="2" fill="#39d353"/><rect x="152" y="203" width="20" height="10" rx="2" fill="#c9d1d9"/></g>
 </svg>
