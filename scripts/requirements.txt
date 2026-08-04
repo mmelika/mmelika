@@ -1,0 +1,3 @@
+# Needed by gen_heatmap.py and gen_card.py — the two the daily Action runs.
+requests==2.32.3
+beautifulsoup4==4.12.3

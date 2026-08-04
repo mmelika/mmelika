@@ -1,0 +1,8 @@
+# Only for gen_portrait.py, which runs locally. rembg pulls onnxruntime and
+# downloads a ~180MB model on first use, so CI never installs this.
+-r requirements.txt
+pillow
+numpy
+rembg
+scipy
+onnxruntime

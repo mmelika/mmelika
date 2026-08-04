@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+
+# The source photo is never committed — only the ASCII rendering of it.
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp

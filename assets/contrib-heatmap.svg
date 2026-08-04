@@ -1,0 +1,466 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="788" height="148" viewBox="0 0 788 148" role="img" aria-label="29 contributions in the last year for mmelika">
+<style>
+.c {
+  opacity: 0;
+  transform: translate(-5px, -5px) scale(0.55);
+  transform-origin: center;
+  transform-box: fill-box;
+  animation: pop 0.42s cubic-bezier(.2,.9,.3,1) forwards;
+}
+@keyframes pop { to { opacity: 1; transform: translate(0,0) scale(1); } }
+.lbl {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 10px;
+  fill: #8b949e;
+  opacity: 0;
+  animation: fade .5s ease-out .35s forwards;
+}
+@keyframes fade { to { opacity: 1; } }
+.b0{animation-delay:0.000s}
+.b1{animation-delay:0.018s}
+.b2{animation-delay:0.036s}
+.b3{animation-delay:0.054s}
+.b4{animation-delay:0.072s}
+.b5{animation-delay:0.090s}
+.b6{animation-delay:0.108s}
+.b7{animation-delay:0.126s}
+.b8{animation-delay:0.144s}
+.b9{animation-delay:0.162s}
+.b10{animation-delay:0.180s}
+.b11{animation-delay:0.198s}
+.b12{animation-delay:0.216s}
+.b13{animation-delay:0.234s}
+.b14{animation-delay:0.252s}
+.b15{animation-delay:0.270s}
+.b16{animation-delay:0.288s}
+.b17{animation-delay:0.306s}
+.b18{animation-delay:0.324s}
+.b19{animation-delay:0.342s}
+.b20{animation-delay:0.360s}
+.b21{animation-delay:0.378s}
+.b22{animation-delay:0.396s}
+.b23{animation-delay:0.414s}
+.b24{animation-delay:0.432s}
+.b25{animation-delay:0.450s}
+.b26{animation-delay:0.468s}
+.b27{animation-delay:0.486s}
+.b28{animation-delay:0.504s}
+.b29{animation-delay:0.522s}
+.b30{animation-delay:0.540s}
+.b31{animation-delay:0.558s}
+.b32{animation-delay:0.576s}
+.b33{animation-delay:0.594s}
+.b34{animation-delay:0.612s}
+.b35{animation-delay:0.630s}
+.b36{animation-delay:0.648s}
+.b37{animation-delay:0.666s}
+.b38{animation-delay:0.684s}
+.b39{animation-delay:0.702s}
+.b40{animation-delay:0.720s}
+.b41{animation-delay:0.738s}
+.b42{animation-delay:0.756s}
+.b43{animation-delay:0.774s}
+.b44{animation-delay:0.792s}
+.b45{animation-delay:0.810s}
+.b46{animation-delay:0.828s}
+.b47{animation-delay:0.846s}
+.b48{animation-delay:0.864s}
+.b49{animation-delay:0.882s}
+.b50{animation-delay:0.900s}
+.b51{animation-delay:0.918s}
+.b52{animation-delay:0.936s}
+.b53{animation-delay:0.954s}
+.b54{animation-delay:0.972s}
+.b55{animation-delay:0.990s}
+.b56{animation-delay:1.008s}
+.b57{animation-delay:1.026s}
+.b58{animation-delay:1.044s}
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<text class="lbl" x="44" y="26">Aug</text>
+<text class="lbl" x="114" y="26">Sep</text>
+<text class="lbl" x="170" y="26">Oct</text>
+<text class="lbl" x="226" y="26">Nov</text>
+<text class="lbl" x="296" y="26">Dec</text>
+<text class="lbl" x="352" y="26">Jan</text>
+<text class="lbl" x="408" y="26">Feb</text>
+<text class="lbl" x="464" y="26">Mar</text>
+<text class="lbl" x="534" y="26">Apr</text>
+<text class="lbl" x="590" y="26">May</text>
+<text class="lbl" x="660" y="26">Jun</text>
+<text class="lbl" x="716" y="26">Jul</text>
+<text class="lbl" x="22" y="58" text-anchor="end">Mon</text>
+<text class="lbl" x="22" y="86" text-anchor="end">Wed</text>
+<text class="lbl" x="22" y="114" text-anchor="end">Fri</text>
+<rect class="c b0" x="30" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-07-27: level 0</title></rect>
+<rect class="c b1" x="30" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-07-28: level 0</title></rect>
+<rect class="c b2" x="30" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-07-29: level 0</title></rect>
+<rect class="c b3" x="30" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-07-30: level 0</title></rect>
+<rect class="c b4" x="30" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-07-31: level 0</title></rect>
+<rect class="c b5" x="30" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-01: level 0</title></rect>
+<rect class="c b6" x="30" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-02: level 0</title></rect>
+<rect class="c b1" x="44" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-03: level 0</title></rect>
+<rect class="c b2" x="44" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-04: level 0</title></rect>
+<rect class="c b3" x="44" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-05: level 0</title></rect>
+<rect class="c b4" x="44" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-06: level 0</title></rect>
+<rect class="c b5" x="44" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-07: level 0</title></rect>
+<rect class="c b6" x="44" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-08: level 0</title></rect>
+<rect class="c b7" x="44" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-09: level 0</title></rect>
+<rect class="c b2" x="58" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-10: level 0</title></rect>
+<rect class="c b3" x="58" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-11: level 0</title></rect>
+<rect class="c b4" x="58" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-12: level 0</title></rect>
+<rect class="c b5" x="58" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-13: level 0</title></rect>
+<rect class="c b6" x="58" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-14: level 0</title></rect>
+<rect class="c b7" x="58" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-15: level 0</title></rect>
+<rect class="c b8" x="58" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-16: level 0</title></rect>
+<rect class="c b3" x="72" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-17: level 0</title></rect>
+<rect class="c b4" x="72" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-18: level 0</title></rect>
+<rect class="c b5" x="72" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-19: level 0</title></rect>
+<rect class="c b6" x="72" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-20: level 0</title></rect>
+<rect class="c b7" x="72" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-21: level 0</title></rect>
+<rect class="c b8" x="72" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-22: level 0</title></rect>
+<rect class="c b9" x="72" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-23: level 0</title></rect>
+<rect class="c b4" x="86" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-24: level 0</title></rect>
+<rect class="c b5" x="86" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-25: level 0</title></rect>
+<rect class="c b6" x="86" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-26: level 0</title></rect>
+<rect class="c b7" x="86" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-27: level 0</title></rect>
+<rect class="c b8" x="86" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-28: level 0</title></rect>
+<rect class="c b9" x="86" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-29: level 0</title></rect>
+<rect class="c b10" x="86" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-30: level 0</title></rect>
+<rect class="c b5" x="100" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-08-31: level 0</title></rect>
+<rect class="c b6" x="100" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-01: level 0</title></rect>
+<rect class="c b7" x="100" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-02: level 0</title></rect>
+<rect class="c b8" x="100" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-03: level 0</title></rect>
+<rect class="c b9" x="100" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-04: level 0</title></rect>
+<rect class="c b10" x="100" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-05: level 0</title></rect>
+<rect class="c b11" x="100" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-06: level 0</title></rect>
+<rect class="c b6" x="114" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-07: level 0</title></rect>
+<rect class="c b7" x="114" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-08: level 0</title></rect>
+<rect class="c b8" x="114" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-09: level 0</title></rect>
+<rect class="c b9" x="114" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-10: level 0</title></rect>
+<rect class="c b10" x="114" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-11: level 0</title></rect>
+<rect class="c b11" x="114" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-12: level 0</title></rect>
+<rect class="c b12" x="114" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-13: level 0</title></rect>
+<rect class="c b7" x="128" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-14: level 0</title></rect>
+<rect class="c b8" x="128" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-15: level 0</title></rect>
+<rect class="c b9" x="128" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-16: level 0</title></rect>
+<rect class="c b10" x="128" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-17: level 0</title></rect>
+<rect class="c b11" x="128" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-18: level 0</title></rect>
+<rect class="c b12" x="128" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-19: level 0</title></rect>
+<rect class="c b13" x="128" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-20: level 0</title></rect>
+<rect class="c b8" x="142" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-21: level 0</title></rect>
+<rect class="c b9" x="142" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-22: level 0</title></rect>
+<rect class="c b10" x="142" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-23: level 0</title></rect>
+<rect class="c b11" x="142" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-24: level 0</title></rect>
+<rect class="c b12" x="142" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-25: level 0</title></rect>
+<rect class="c b13" x="142" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-26: level 0</title></rect>
+<rect class="c b14" x="142" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-27: level 0</title></rect>
+<rect class="c b9" x="156" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-28: level 0</title></rect>
+<rect class="c b10" x="156" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-29: level 0</title></rect>
+<rect class="c b11" x="156" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-09-30: level 0</title></rect>
+<rect class="c b12" x="156" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-01: level 0</title></rect>
+<rect class="c b13" x="156" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-02: level 0</title></rect>
+<rect class="c b14" x="156" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-03: level 0</title></rect>
+<rect class="c b15" x="156" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-04: level 0</title></rect>
+<rect class="c b10" x="170" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-05: level 0</title></rect>
+<rect class="c b11" x="170" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-06: level 0</title></rect>
+<rect class="c b12" x="170" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-07: level 0</title></rect>
+<rect class="c b13" x="170" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-08: level 0</title></rect>
+<rect class="c b14" x="170" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-09: level 0</title></rect>
+<rect class="c b15" x="170" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-10: level 0</title></rect>
+<rect class="c b16" x="170" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-11: level 0</title></rect>
+<rect class="c b11" x="184" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-12: level 0</title></rect>
+<rect class="c b12" x="184" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-13: level 0</title></rect>
+<rect class="c b13" x="184" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-14: level 0</title></rect>
+<rect class="c b14" x="184" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-15: level 0</title></rect>
+<rect class="c b15" x="184" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-16: level 0</title></rect>
+<rect class="c b16" x="184" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-17: level 0</title></rect>
+<rect class="c b17" x="184" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-18: level 0</title></rect>
+<rect class="c b12" x="198" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-19: level 0</title></rect>
+<rect class="c b13" x="198" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-20: level 0</title></rect>
+<rect class="c b14" x="198" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-21: level 0</title></rect>
+<rect class="c b15" x="198" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-22: level 0</title></rect>
+<rect class="c b16" x="198" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-23: level 0</title></rect>
+<rect class="c b17" x="198" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-24: level 0</title></rect>
+<rect class="c b18" x="198" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-25: level 0</title></rect>
+<rect class="c b13" x="212" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-26: level 0</title></rect>
+<rect class="c b14" x="212" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-27: level 0</title></rect>
+<rect class="c b15" x="212" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-28: level 0</title></rect>
+<rect class="c b16" x="212" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-29: level 0</title></rect>
+<rect class="c b17" x="212" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-30: level 0</title></rect>
+<rect class="c b18" x="212" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-10-31: level 0</title></rect>
+<rect class="c b19" x="212" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-01: level 0</title></rect>
+<rect class="c b14" x="226" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-02: level 0</title></rect>
+<rect class="c b15" x="226" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-03: level 0</title></rect>
+<rect class="c b16" x="226" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-04: level 0</title></rect>
+<rect class="c b17" x="226" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-05: level 0</title></rect>
+<rect class="c b18" x="226" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-06: level 0</title></rect>
+<rect class="c b19" x="226" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-07: level 0</title></rect>
+<rect class="c b20" x="226" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-08: level 0</title></rect>
+<rect class="c b15" x="240" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-09: level 0</title></rect>
+<rect class="c b16" x="240" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-10: level 0</title></rect>
+<rect class="c b17" x="240" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-11: level 0</title></rect>
+<rect class="c b18" x="240" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-12: level 0</title></rect>
+<rect class="c b19" x="240" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-13: level 0</title></rect>
+<rect class="c b20" x="240" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-14: level 0</title></rect>
+<rect class="c b21" x="240" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-15: level 0</title></rect>
+<rect class="c b16" x="254" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-16: level 0</title></rect>
+<rect class="c b17" x="254" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-17: level 0</title></rect>
+<rect class="c b18" x="254" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-18: level 0</title></rect>
+<rect class="c b19" x="254" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-19: level 0</title></rect>
+<rect class="c b20" x="254" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-20: level 0</title></rect>
+<rect class="c b21" x="254" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-21: level 0</title></rect>
+<rect class="c b22" x="254" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-22: level 0</title></rect>
+<rect class="c b17" x="268" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-23: level 0</title></rect>
+<rect class="c b18" x="268" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-24: level 0</title></rect>
+<rect class="c b19" x="268" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-25: level 0</title></rect>
+<rect class="c b20" x="268" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-26: level 0</title></rect>
+<rect class="c b21" x="268" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-27: level 0</title></rect>
+<rect class="c b22" x="268" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-28: level 0</title></rect>
+<rect class="c b23" x="268" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-29: level 0</title></rect>
+<rect class="c b18" x="282" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-11-30: level 0</title></rect>
+<rect class="c b19" x="282" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-01: level 0</title></rect>
+<rect class="c b20" x="282" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-02: level 0</title></rect>
+<rect class="c b21" x="282" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-03: level 0</title></rect>
+<rect class="c b22" x="282" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-04: level 0</title></rect>
+<rect class="c b23" x="282" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-05: level 0</title></rect>
+<rect class="c b24" x="282" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-06: level 0</title></rect>
+<rect class="c b19" x="296" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-07: level 0</title></rect>
+<rect class="c b20" x="296" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-08: level 0</title></rect>
+<rect class="c b21" x="296" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-09: level 0</title></rect>
+<rect class="c b22" x="296" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-10: level 0</title></rect>
+<rect class="c b23" x="296" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-11: level 0</title></rect>
+<rect class="c b24" x="296" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-12: level 0</title></rect>
+<rect class="c b25" x="296" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-13: level 0</title></rect>
+<rect class="c b20" x="310" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-14: level 0</title></rect>
+<rect class="c b21" x="310" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-15: level 0</title></rect>
+<rect class="c b22" x="310" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-16: level 0</title></rect>
+<rect class="c b23" x="310" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-17: level 0</title></rect>
+<rect class="c b24" x="310" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-18: level 0</title></rect>
+<rect class="c b25" x="310" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-19: level 0</title></rect>
+<rect class="c b26" x="310" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-20: level 0</title></rect>
+<rect class="c b21" x="324" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-21: level 0</title></rect>
+<rect class="c b22" x="324" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-22: level 0</title></rect>
+<rect class="c b23" x="324" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-23: level 0</title></rect>
+<rect class="c b24" x="324" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-24: level 0</title></rect>
+<rect class="c b25" x="324" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-25: level 0</title></rect>
+<rect class="c b26" x="324" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-26: level 0</title></rect>
+<rect class="c b27" x="324" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-27: level 0</title></rect>
+<rect class="c b22" x="338" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-28: level 0</title></rect>
+<rect class="c b23" x="338" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-29: level 0</title></rect>
+<rect class="c b24" x="338" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-30: level 0</title></rect>
+<rect class="c b25" x="338" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2025-12-31: level 0</title></rect>
+<rect class="c b26" x="338" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-01: level 0</title></rect>
+<rect class="c b27" x="338" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-02: level 0</title></rect>
+<rect class="c b28" x="338" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-03: level 0</title></rect>
+<rect class="c b23" x="352" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-04: level 0</title></rect>
+<rect class="c b24" x="352" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-05: level 0</title></rect>
+<rect class="c b25" x="352" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-06: level 0</title></rect>
+<rect class="c b26" x="352" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-07: level 0</title></rect>
+<rect class="c b27" x="352" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-08: level 0</title></rect>
+<rect class="c b28" x="352" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-09: level 0</title></rect>
+<rect class="c b29" x="352" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-10: level 0</title></rect>
+<rect class="c b24" x="366" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-11: level 0</title></rect>
+<rect class="c b25" x="366" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-12: level 0</title></rect>
+<rect class="c b26" x="366" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-13: level 0</title></rect>
+<rect class="c b27" x="366" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-14: level 0</title></rect>
+<rect class="c b28" x="366" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-15: level 0</title></rect>
+<rect class="c b29" x="366" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-16: level 0</title></rect>
+<rect class="c b30" x="366" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-17: level 0</title></rect>
+<rect class="c b25" x="380" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-18: level 0</title></rect>
+<rect class="c b26" x="380" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-19: level 0</title></rect>
+<rect class="c b27" x="380" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-20: level 0</title></rect>
+<rect class="c b28" x="380" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-21: level 0</title></rect>
+<rect class="c b29" x="380" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-22: level 0</title></rect>
+<rect class="c b30" x="380" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-23: level 0</title></rect>
+<rect class="c b31" x="380" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-24: level 0</title></rect>
+<rect class="c b26" x="394" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-25: level 0</title></rect>
+<rect class="c b27" x="394" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-26: level 0</title></rect>
+<rect class="c b28" x="394" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-27: level 0</title></rect>
+<rect class="c b29" x="394" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-28: level 0</title></rect>
+<rect class="c b30" x="394" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-29: level 0</title></rect>
+<rect class="c b31" x="394" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-30: level 0</title></rect>
+<rect class="c b32" x="394" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-01-31: level 0</title></rect>
+<rect class="c b27" x="408" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-01: level 0</title></rect>
+<rect class="c b28" x="408" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-02: level 0</title></rect>
+<rect class="c b29" x="408" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-03: level 0</title></rect>
+<rect class="c b30" x="408" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-04: level 0</title></rect>
+<rect class="c b31" x="408" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-05: level 0</title></rect>
+<rect class="c b32" x="408" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-06: level 0</title></rect>
+<rect class="c b33" x="408" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-07: level 0</title></rect>
+<rect class="c b28" x="422" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-08: level 0</title></rect>
+<rect class="c b29" x="422" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-09: level 0</title></rect>
+<rect class="c b30" x="422" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-10: level 0</title></rect>
+<rect class="c b31" x="422" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-11: level 0</title></rect>
+<rect class="c b32" x="422" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-12: level 0</title></rect>
+<rect class="c b33" x="422" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-13: level 0</title></rect>
+<rect class="c b34" x="422" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-14: level 0</title></rect>
+<rect class="c b29" x="436" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-15: level 0</title></rect>
+<rect class="c b30" x="436" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-16: level 0</title></rect>
+<rect class="c b31" x="436" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-17: level 0</title></rect>
+<rect class="c b32" x="436" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-18: level 0</title></rect>
+<rect class="c b33" x="436" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-19: level 0</title></rect>
+<rect class="c b34" x="436" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-20: level 0</title></rect>
+<rect class="c b35" x="436" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-21: level 0</title></rect>
+<rect class="c b30" x="450" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-22: level 0</title></rect>
+<rect class="c b31" x="450" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-23: level 0</title></rect>
+<rect class="c b32" x="450" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-24: level 0</title></rect>
+<rect class="c b33" x="450" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-25: level 0</title></rect>
+<rect class="c b34" x="450" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-26: level 0</title></rect>
+<rect class="c b35" x="450" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-27: level 0</title></rect>
+<rect class="c b36" x="450" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-02-28: level 0</title></rect>
+<rect class="c b31" x="464" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-01: level 0</title></rect>
+<rect class="c b32" x="464" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-02: level 0</title></rect>
+<rect class="c b33" x="464" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-03: level 0</title></rect>
+<rect class="c b34" x="464" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-04: level 0</title></rect>
+<rect class="c b35" x="464" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-05: level 0</title></rect>
+<rect class="c b36" x="464" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-06: level 0</title></rect>
+<rect class="c b37" x="464" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-07: level 0</title></rect>
+<rect class="c b32" x="478" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-08: level 0</title></rect>
+<rect class="c b33" x="478" y="48" width="11" height="11" rx="2" fill="#0e4429"><title>2026-03-09: level 1</title></rect>
+<rect class="c b34" x="478" y="62" width="11" height="11" rx="2" fill="#0e4429"><title>2026-03-10: level 1</title></rect>
+<rect class="c b35" x="478" y="76" width="11" height="11" rx="2" fill="#26a641"><title>2026-03-11: level 3</title></rect>
+<rect class="c b36" x="478" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-12: level 0</title></rect>
+<rect class="c b37" x="478" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-13: level 0</title></rect>
+<rect class="c b38" x="478" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-14: level 0</title></rect>
+<rect class="c b33" x="492" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-15: level 0</title></rect>
+<rect class="c b34" x="492" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-16: level 0</title></rect>
+<rect class="c b35" x="492" y="62" width="11" height="11" rx="2" fill="#0e4429"><title>2026-03-17: level 1</title></rect>
+<rect class="c b36" x="492" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-18: level 0</title></rect>
+<rect class="c b37" x="492" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-19: level 0</title></rect>
+<rect class="c b38" x="492" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-20: level 0</title></rect>
+<rect class="c b39" x="492" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-21: level 0</title></rect>
+<rect class="c b34" x="506" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-22: level 0</title></rect>
+<rect class="c b35" x="506" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-23: level 0</title></rect>
+<rect class="c b36" x="506" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-24: level 0</title></rect>
+<rect class="c b37" x="506" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-25: level 0</title></rect>
+<rect class="c b38" x="506" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-26: level 0</title></rect>
+<rect class="c b39" x="506" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-27: level 0</title></rect>
+<rect class="c b40" x="506" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-28: level 0</title></rect>
+<rect class="c b35" x="520" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-29: level 0</title></rect>
+<rect class="c b36" x="520" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-30: level 0</title></rect>
+<rect class="c b37" x="520" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-03-31: level 0</title></rect>
+<rect class="c b38" x="520" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-01: level 0</title></rect>
+<rect class="c b39" x="520" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-02: level 0</title></rect>
+<rect class="c b40" x="520" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-03: level 0</title></rect>
+<rect class="c b41" x="520" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-04: level 0</title></rect>
+<rect class="c b36" x="534" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-05: level 0</title></rect>
+<rect class="c b37" x="534" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-06: level 0</title></rect>
+<rect class="c b38" x="534" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-07: level 0</title></rect>
+<rect class="c b39" x="534" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-08: level 0</title></rect>
+<rect class="c b40" x="534" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-09: level 0</title></rect>
+<rect class="c b41" x="534" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-10: level 0</title></rect>
+<rect class="c b42" x="534" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-11: level 0</title></rect>
+<rect class="c b37" x="548" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-12: level 0</title></rect>
+<rect class="c b38" x="548" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-13: level 0</title></rect>
+<rect class="c b39" x="548" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-14: level 0</title></rect>
+<rect class="c b40" x="548" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-15: level 0</title></rect>
+<rect class="c b41" x="548" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-16: level 0</title></rect>
+<rect class="c b42" x="548" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-17: level 0</title></rect>
+<rect class="c b43" x="548" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-18: level 0</title></rect>
+<rect class="c b38" x="562" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-19: level 0</title></rect>
+<rect class="c b39" x="562" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-20: level 0</title></rect>
+<rect class="c b40" x="562" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-21: level 0</title></rect>
+<rect class="c b41" x="562" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-22: level 0</title></rect>
+<rect class="c b42" x="562" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-23: level 0</title></rect>
+<rect class="c b43" x="562" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-24: level 0</title></rect>
+<rect class="c b44" x="562" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-25: level 0</title></rect>
+<rect class="c b39" x="576" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-26: level 0</title></rect>
+<rect class="c b40" x="576" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-27: level 0</title></rect>
+<rect class="c b41" x="576" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-28: level 0</title></rect>
+<rect class="c b42" x="576" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-29: level 0</title></rect>
+<rect class="c b43" x="576" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-04-30: level 0</title></rect>
+<rect class="c b44" x="576" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-01: level 0</title></rect>
+<rect class="c b45" x="576" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-02: level 0</title></rect>
+<rect class="c b40" x="590" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-03: level 0</title></rect>
+<rect class="c b41" x="590" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-04: level 0</title></rect>
+<rect class="c b42" x="590" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-05: level 0</title></rect>
+<rect class="c b43" x="590" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-06: level 0</title></rect>
+<rect class="c b44" x="590" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-07: level 0</title></rect>
+<rect class="c b45" x="590" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-08: level 0</title></rect>
+<rect class="c b46" x="590" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-09: level 0</title></rect>
+<rect class="c b41" x="604" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-10: level 0</title></rect>
+<rect class="c b42" x="604" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-11: level 0</title></rect>
+<rect class="c b43" x="604" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-12: level 0</title></rect>
+<rect class="c b44" x="604" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-13: level 0</title></rect>
+<rect class="c b45" x="604" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-14: level 0</title></rect>
+<rect class="c b46" x="604" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-15: level 0</title></rect>
+<rect class="c b47" x="604" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-16: level 0</title></rect>
+<rect class="c b42" x="618" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-17: level 0</title></rect>
+<rect class="c b43" x="618" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-18: level 0</title></rect>
+<rect class="c b44" x="618" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-19: level 0</title></rect>
+<rect class="c b45" x="618" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-20: level 0</title></rect>
+<rect class="c b46" x="618" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-21: level 0</title></rect>
+<rect class="c b47" x="618" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-22: level 0</title></rect>
+<rect class="c b48" x="618" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-23: level 0</title></rect>
+<rect class="c b43" x="632" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-24: level 0</title></rect>
+<rect class="c b44" x="632" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-25: level 0</title></rect>
+<rect class="c b45" x="632" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-26: level 0</title></rect>
+<rect class="c b46" x="632" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-27: level 0</title></rect>
+<rect class="c b47" x="632" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-28: level 0</title></rect>
+<rect class="c b48" x="632" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-29: level 0</title></rect>
+<rect class="c b49" x="632" y="118" width="11" height="11" rx="2" fill="#0e4429"><title>2026-05-30: level 1</title></rect>
+<rect class="c b44" x="646" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-05-31: level 0</title></rect>
+<rect class="c b45" x="646" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-01: level 0</title></rect>
+<rect class="c b46" x="646" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-02: level 0</title></rect>
+<rect class="c b47" x="646" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-03: level 0</title></rect>
+<rect class="c b48" x="646" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-04: level 0</title></rect>
+<rect class="c b49" x="646" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-05: level 0</title></rect>
+<rect class="c b50" x="646" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-06: level 0</title></rect>
+<rect class="c b45" x="660" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-07: level 0</title></rect>
+<rect class="c b46" x="660" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-08: level 0</title></rect>
+<rect class="c b47" x="660" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-09: level 0</title></rect>
+<rect class="c b48" x="660" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-10: level 0</title></rect>
+<rect class="c b49" x="660" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-11: level 0</title></rect>
+<rect class="c b50" x="660" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-12: level 0</title></rect>
+<rect class="c b51" x="660" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-13: level 0</title></rect>
+<rect class="c b46" x="674" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-14: level 0</title></rect>
+<rect class="c b47" x="674" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-15: level 0</title></rect>
+<rect class="c b48" x="674" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-16: level 0</title></rect>
+<rect class="c b49" x="674" y="76" width="11" height="11" rx="2" fill="#0e4429"><title>2026-06-17: level 1</title></rect>
+<rect class="c b50" x="674" y="90" width="11" height="11" rx="2" fill="#0e4429"><title>2026-06-18: level 1</title></rect>
+<rect class="c b51" x="674" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-19: level 0</title></rect>
+<rect class="c b52" x="674" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-20: level 0</title></rect>
+<rect class="c b47" x="688" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-21: level 0</title></rect>
+<rect class="c b48" x="688" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-22: level 0</title></rect>
+<rect class="c b49" x="688" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-23: level 0</title></rect>
+<rect class="c b50" x="688" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-24: level 0</title></rect>
+<rect class="c b51" x="688" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-25: level 0</title></rect>
+<rect class="c b52" x="688" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-26: level 0</title></rect>
+<rect class="c b53" x="688" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-27: level 0</title></rect>
+<rect class="c b48" x="702" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-28: level 0</title></rect>
+<rect class="c b49" x="702" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-29: level 0</title></rect>
+<rect class="c b50" x="702" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-06-30: level 0</title></rect>
+<rect class="c b51" x="702" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-01: level 0</title></rect>
+<rect class="c b52" x="702" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-02: level 0</title></rect>
+<rect class="c b53" x="702" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-03: level 0</title></rect>
+<rect class="c b54" x="702" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-04: level 0</title></rect>
+<rect class="c b49" x="716" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-05: level 0</title></rect>
+<rect class="c b50" x="716" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-06: level 0</title></rect>
+<rect class="c b51" x="716" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-07: level 0</title></rect>
+<rect class="c b52" x="716" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-08: level 0</title></rect>
+<rect class="c b53" x="716" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-09: level 0</title></rect>
+<rect class="c b54" x="716" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-10: level 0</title></rect>
+<rect class="c b55" x="716" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-11: level 0</title></rect>
+<rect class="c b50" x="730" y="34" width="11" height="11" rx="2" fill="#26a641"><title>2026-07-12: level 3</title></rect>
+<rect class="c b51" x="730" y="48" width="11" height="11" rx="2" fill="#26a641"><title>2026-07-13: level 3</title></rect>
+<rect class="c b52" x="730" y="62" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-14: level 0</title></rect>
+<rect class="c b53" x="730" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-15: level 0</title></rect>
+<rect class="c b54" x="730" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-16: level 0</title></rect>
+<rect class="c b55" x="730" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-17: level 0</title></rect>
+<rect class="c b56" x="730" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-18: level 0</title></rect>
+<rect class="c b51" x="744" y="34" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-19: level 0</title></rect>
+<rect class="c b52" x="744" y="48" width="11" height="11" rx="2" fill="#39d353"><title>2026-07-20: level 4</title></rect>
+<rect class="c b53" x="744" y="62" width="11" height="11" rx="2" fill="#006d32"><title>2026-07-21: level 2</title></rect>
+<rect class="c b54" x="744" y="76" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-22: level 0</title></rect>
+<rect class="c b55" x="744" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-23: level 0</title></rect>
+<rect class="c b56" x="744" y="104" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-24: level 0</title></rect>
+<rect class="c b57" x="744" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-25: level 0</title></rect>
+<rect class="c b52" x="758" y="34" width="11" height="11" rx="2" fill="#0e4429"><title>2026-07-26: level 1</title></rect>
+<rect class="c b53" x="758" y="48" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-27: level 0</title></rect>
+<rect class="c b54" x="758" y="62" width="11" height="11" rx="2" fill="#006d32"><title>2026-07-28: level 2</title></rect>
+<rect class="c b55" x="758" y="76" width="11" height="11" rx="2" fill="#006d32"><title>2026-07-29: level 2</title></rect>
+<rect class="c b56" x="758" y="90" width="11" height="11" rx="2" fill="#161b22"><title>2026-07-30: level 0</title></rect>
+<rect class="c b57" x="758" y="104" width="11" height="11" rx="2" fill="#26a641"><title>2026-07-31: level 3</title></rect>
+<rect class="c b58" x="758" y="118" width="11" height="11" rx="2" fill="#161b22"><title>2026-08-01: level 0</title></rect>
+</svg>

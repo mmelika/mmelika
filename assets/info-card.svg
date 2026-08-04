@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="260" viewBox="0 0 620 260" role="img" aria-label="Profile info card for mmelika">
+<style>
+text {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 13px;
+  fill: #c9d1d9;
+}
+.hdr { fill: #39d353; font-weight: 700; }
+.dim { fill: #8b949e; font-weight: 400; }
+.rule { fill: #8b949e; }
+.key { fill: #39d353; }
+.val { fill: #c9d1d9; }
+.l {
+  opacity: 0;
+  animation: rise 0.45s cubic-bezier(.2,.8,.3,1) forwards;
+}
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+</style>
+<rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+<g class="l" style="animation-delay:0.00s"><text class="hdr" x="22" y="35">marco<tspan class="dim">@</tspan>github</text></g>
+<g class="l" style="animation-delay:0.11s"><text class="rule" x="22" y="59">──────────────────────────────────</text></g>
+<g class="l" style="animation-delay:0.22s"><text class="key" x="22" y="83">Role</text><text class="val" x="118" y="83">Student @ Cal Poly SLO</text></g>
+<g class="l" style="animation-delay:0.33s"><text class="key" x="22" y="107">Building</text><text class="val" x="118" y="107">MemBridge — shared memory for AI coding agents</text></g>
+<g class="l" style="animation-delay:0.44s"><text class="key" x="22" y="131">Stack</text><text class="val" x="118" y="131">Node · Electron · React · Supabase</text></g>
+<g class="l" style="animation-delay:0.55s"><text class="key" x="22" y="155">Location</text><text class="val" x="118" y="155">Los Angeles</text></g>
+<g class="l" style="animation-delay:0.66s"><text class="key" x="22" y="179">Repos</text><text class="val" x="118" y="179">9 public</text></g>
+<g class="l" style="animation-delay:0.77s"><rect x="22" y="203" width="20" height="10" rx="2" fill="#161b22"/><rect x="48" y="203" width="20" height="10" rx="2" fill="#0e4429"/><rect x="74" y="203" width="20" height="10" rx="2" fill="#006d32"/><rect x="100" y="203" width="20" height="10" rx="2" fill="#26a641"/><rect x="126" y="203" width="20" height="10" rx="2" fill="#39d353"/><rect x="152" y="203" width="20" height="10" rx="2" fill="#c9d1d9"/></g>
+</svg>

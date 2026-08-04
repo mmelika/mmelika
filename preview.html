@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+<title>profile preview</title>
+<style>
+  body { background:#010409; color:#c9d1d9; font-family:ui-monospace,Menlo,monospace;
+         margin:0; padding:32px; display:flex; flex-direction:column; align-items:center; gap:14px }
+  code { color:#8b949e; font-size:13px }
+  table { border-collapse:collapse } td { padding:0 6px; vertical-align:top }
+  button { background:#21262d; color:#c9d1d9; border:1px solid #30363d; border-radius:6px;
+           padding:6px 14px; font:inherit; font-size:12px; cursor:pointer; margin-bottom:8px }
+</style>
+
+<button onclick="[...document.images].forEach(i=>{const s=i.src;i.src='';i.src=s})">↻ replay</button>
+
+<code>marco@github ~ $ ./contributions.sh</code>
+<img src="assets/contrib-heatmap.svg" width="860">
+
+<code>marco@github ~ $ neofetch</code>
+<table><tr>
+  <td><img src="assets/ascii-portrait.svg" width="380"></td>
+  <td><img src="assets/info-card.svg" width="470"></td>
+</tr></table>
